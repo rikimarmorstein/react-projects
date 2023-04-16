@@ -1,0 +1,23 @@
+.EditProduct >form{
+        width: 250px;
+        text-align: left;	
+        margin: auto;
+        }
+        
+        .EditProduct input, .EditProduct button{
+            width: 100%;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+        }
+        
+        .EditProduct h2{
+            text-align: center;
+        }
+        
+        .EditProduct span{
+        position: absolute;
+        margin-left:20px ;
+        color: red;
+        }
+            
+
