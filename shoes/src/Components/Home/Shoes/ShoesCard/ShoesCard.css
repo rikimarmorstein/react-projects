@@ -1,0 +1,10 @@
+.ShoesCard {
+    display: grid;
+grid-column: 6;
+    /* float: left; */
+/* position: static; */
+margin: 5px;
+    left: 10px;
+    height: 200;
+    text-align: left;
+}

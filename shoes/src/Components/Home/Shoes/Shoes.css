@@ -1,0 +1,18 @@
+.Shoes {
+	display: grid;
+    /* font-weight: 200px;	 */
+    /* display: flex;	 */
+    /* flex-direction: column; */
+    border: 20px;
+grid-column: 3;
+grid-row: 2;
+   height: 10px; 
+}
+
+.Shoes >span{
+color: brown;
+}
+.Shoes>h1{
+    border-color: blue;
+
+}
